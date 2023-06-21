@@ -18,7 +18,7 @@ This plugin isn't going to have one focused feature, or a focused group of featu
 - **Turtleboi**, @turtle.boi on discord, *me*
     - Lead developer, ideas man 😎
 - **ThePotatoKing**, @thepotatoking3452 on discord
-    - General questions answerer 💯
+    - General questions answerer, awesome dude 💯
 
 
 [My Github](https://github.com/Turtle-Boi) • [My Twitch](https://twitch.tv/turtleboi2480) 
