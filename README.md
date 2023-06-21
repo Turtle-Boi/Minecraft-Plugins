@@ -3,7 +3,7 @@ This plugin isn't going to have one focused feature, or a focused group of featu
 
 ## Change Logs
 - **Version 1.0**
-    - **Date:** 6/20/2023
+    - **Date:** 6/21/2023
     - **Changes:** First release, nothing else to it. Currently only a server start and stop message.
 
 ## Installation
