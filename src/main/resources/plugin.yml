@@ -1,0 +1,4 @@
+name: Experiments
+version: '${project.version}'
+main: turtleboi.experiments.Experiments
+api-version: '1.20'
