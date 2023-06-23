@@ -23,13 +23,13 @@ public final class Experiments extends JavaPlugin {
     public void onEnable() {
         version = propertiesGrab();
         // Plugin startup logic
-        Bukkit.getLogger().info("TurtleBoi Experiments working as expected. Version: " + version);
+        Bukkit.getLogger().info("[TurtleBoi Experiments v" + version + "] Working as expected.");
     }
 
     @Override
     public void onDisable() {
         // Plugin shutdown logic
-        Bukkit.getLogger().info("TurtleBoi Experiments shutting down. Version: " + version);
+        Bukkit.getLogger().info("[TurtleBoi Experiments v" + version + "] Shutting down...");
     }
 }
 
