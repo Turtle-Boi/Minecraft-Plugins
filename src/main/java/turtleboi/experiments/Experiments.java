@@ -2,6 +2,7 @@ package turtleboi.experiments;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
+import turtleboi.experiments.commands.Fly;
 
 import java.io.IOException;
 import java.util.Properties;
@@ -24,6 +25,8 @@ public final class Experiments extends JavaPlugin {
         version = propertiesGrab();
         // Plugin startup logic
         Bukkit.getLogger().info("[TurtleBoi Experiments v" + version + "] Working as expected.");
+
+        getCommand("fly").setExecutor(new Fly());
     }
 
     @Override

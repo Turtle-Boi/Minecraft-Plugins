@@ -2,3 +2,10 @@ name: Experiments
 version: '${project.version}'
 main: turtleboi.experiments.Experiments
 api-version: '1.20'
+commands:
+  fly:
+    description: Toggles flying for the user
+    usage: /fly
+    aliases: [f, flying, togglefly]
+    permission: fly
+    permission-message: You do not have permission.
