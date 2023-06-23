@@ -2,6 +2,9 @@
 This plugin isn't going to have one focused feature, or a focused group of features, this is going to be experiments for me to further my java/maven knowledge.
 
 ## Change Logs
+- **Version 1.1**
+  - **Date:** 6/22/2023
+  - **Changes:** Created an OP exclusive command, /fly
 - **Version 1.0**
     - **Date:** 6/22/2023
     - **Changes:** First release, nothing else to it. Currently only a server start and stop message.
