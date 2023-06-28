@@ -17,6 +17,7 @@ You never know, you may find a plugin you would like to use in your own server!
 
 ---
 ## Experiments
+- [Source Code](https://github.com/Turtle-Boi/Minecraft-Plugins/tree/master/TurtleBoi-Plugins/Experiments)
 - **Minecraft Version:** 1.20+
 - **Minecraft Plugin Loader:** Spigot
 - **Last Updated:** v1.1, June 22nd 2023
@@ -25,6 +26,7 @@ You never know, you may find a plugin you would like to use in your own server!
 - OP-exclusive `/fly` command.
 
 ## Treegone
+- [Source Code](https://github.com/Turtle-Boi/Minecraft-Plugins/tree/master/TurtleBoi-Plugins/TreeGone)
 - **Minecraft Version:** 1.20+
 - **Minecraft Plugin Loader:** Spigot
 - **Last Updated:** Under development, no current initial release.
